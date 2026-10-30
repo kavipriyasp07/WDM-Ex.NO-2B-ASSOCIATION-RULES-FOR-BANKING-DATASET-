@@ -1,5 +1,6 @@
 # WDM-Ex.NO-2B-ASSOCIATION-RULES-FOR-BANKING-DATASET
-## Reg.no: 2305002013
+## Name: Kavipriya SP
+## Reg.no: 2305002011
 ## Aim:
 To Find the Association Rules for Banking dataset.
 ## Description:
